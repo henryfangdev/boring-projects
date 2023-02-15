@@ -1,0 +1,19 @@
+.footer {
+  background-color: rgb(10, 45, 52);
+
+  &__logo-box {
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-top: 2rem;
+  }
+
+  &__logo {
+    width: 5rem;
+    height: auto;
+  }
+
+  &__copyright-text {
+    color: rgb(225, 225, 225);
+    padding-bottom: 1rem;
+  }
+}
